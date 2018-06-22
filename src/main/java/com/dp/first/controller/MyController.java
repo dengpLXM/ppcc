@@ -27,7 +27,6 @@ public class MyController {
 		
 		public static void main(String[] args) throws InterruptedException {
 			System.out.println("begin...");
-			
 //			new Thread(new Runnable() {
 //				
 //				@Override
