@@ -26,7 +26,7 @@ public class MyController {
 		}
 		
 		public static void main(String[] args) throws InterruptedException {
-			System.out.println("begin...");
+			System.out.println("begin...测试分支");
 //			new Thread(new Runnable() {
 //				
 //				@Override
@@ -40,7 +40,7 @@ public class MyController {
 //					
 //				}
 //			}).start();
-			//�̳߳�
+			//线程池
 			Executors.newSingleThreadExecutor().submit(new Runnable() {
 				
 				@Override
