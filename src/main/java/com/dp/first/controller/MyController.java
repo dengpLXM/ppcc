@@ -27,6 +27,7 @@ public class MyController {
 		
 		public static void main(String[] args) throws InterruptedException {
 			System.out.println("begin...测试分支");
+			System.out.println("第二次测试合并分支");
 //			new Thread(new Runnable() {
 //				
 //				@Override
